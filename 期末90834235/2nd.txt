@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>網頁架構</title>
+</head>
+<body>
+
+
+</div>
+<h3>Le Ruban Pâtisserie 法朋烘焙甜點坊-老奶奶檸檬蛋糕</h3>
+</div>
+
+<a href="index.html">餐飲美食首頁</a>
+<a href="3nd.html">深夜裡的法國手工甜點-超厚層生巧克力塔</a>
+<a href="4nd.html">不二緻果-真芋頭</a>
+<a href="5nd.html">心得感想</a>
+
+<table border="1">
+<tr>
+<th>圖片</th>
+<th>標題</th>
+<th>說明</th>
+</tr>
+
+<tr>
+<td><img src=".\0011.jpg" width="400" height="300" align="left"></td>
+<td><h3>Le Ruban Pâtisserie 法朋烘焙甜點坊<br>老奶奶檸檬蛋糕</h3></td>
+<td>位在大安區一處寧靜小巷弄中的「法朋」，<br>
+因著一塊酸酸甜甜、口感紮實的「老奶奶檸檬蛋糕」在競爭激烈中的台北甜點店中打響名氣。<br>
+法朋販售各種精緻的法式甜品，經典品項除了老奶奶檸檬蛋糕之外，<br>
+還有生鮮奶油蛋糕及水果塔。<br>
+店內運用法國伊斯尼奶油、日本和三盆糖等高級原料手工製作的鐵盒餅乾也是人手一盒。<br>
+法朋主要以外帶的客群為主，內用有 NT$200 低消，<br>
+點一杯飲品加小蛋糕，與朋友聊上一下午也很適合！<p></td>
+</div>
+</tr>
+
+
+
+</table>
+<audio src=".\music.mp3" autoplay controls> </audio>
